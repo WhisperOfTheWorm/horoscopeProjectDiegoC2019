@@ -1,0 +1,47 @@
+#monthDiv {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    /*position: relative;*/
+    /*width: 30%;*/
+    /*text-align: center;*/
+}
+
+body {
+    background-image: url("img/whitespace.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+div{
+    padding-top: 10px;
+}
+
+img{
+    padding-top: 10px;
+}
+h1{
+    font-family:"Lucida Blackletter";
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px #000000;
+}
+
+h2{
+    font-family:"Lucida Blackletter";
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px #000000;
+}
+
+div{
+    font-family:"Apple Braille";
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px #000000;
+}
+
